@@ -1,6 +1,6 @@
 
 
-# Portfolio
+# Landing Page
 ![Thumbnail](https://github.com/kunalbafna3/Landing-Page/blob/main/homepage.PNG)
 
 ### Description
